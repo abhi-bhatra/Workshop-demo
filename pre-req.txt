@@ -1,0 +1,3 @@
+Python3: https://docs.microsoft.com/en-us/learn/modules/python-install-vscode/3-exercise-install-python3?pivots=windows
+VS Code (optional): https://code.visualstudio.com/?WT.mc_id=academic-56258-chrhar 
+Azure for Students: https://azure.microsoft.com/en-us/free/students/?WT.mc_id=python-11210-chrhar
